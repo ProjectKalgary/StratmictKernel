@@ -4,6 +4,6 @@
  This is a kernel for CircuitPython boards with a Gameduino 3X Dazzler.
  
 # How to Install
- Simply copy contents of this repository, (except for GitHub stuff,) onto your CircuitPython board.
+ Simply copy contents of StratmictKernel directory onto your CircuitPython board.
  
  Then you can install ChipOS onto your SD card to put into the Gameduino SD slot. (Find ChipOS [here](https://github.com/ProjectKalgary/ChipOS))
